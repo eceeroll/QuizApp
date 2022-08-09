@@ -1,8 +1,9 @@
 # QuizApp
-A simple QuizApp with JavaScript
-I designed this project Responsive with CSS Flexbox. 
+<strong> A simple QuizApp with JavaScript </strong>
 
-There is an enterpage which you can start the quiz or display the highscore. <br>
+I designed this project Responsive with CSS Flexbox.  <hr>
+
+There is an enterpage which you can start the quiz or display the highscore. <br> <br>
 <img width="355" alt="Screenshot_1" src="https://user-images.githubusercontent.com/73228549/183671875-56b0a7f8-750c-4374-842f-f7294dcc612a.png"> <br>
 
 When you click the Play button questions will be display at screen. <br>
